@@ -9,11 +9,11 @@ The goal of this work is to provide user-friendly icons for priorities of ticket
 * The color and orientation helps to distinguish low and high priority tickets.
 
 <span>
-<image  height="42" src="https://github.com/AlexanderBartash/JIRA-Priority-Icons/blob/master/Highest.svg"/>
-<image  height="42" src="https://github.com/AlexanderBartash/JIRA-Priority-Icons/blob/master/High.svg"/>
-<image  height="42" src="https://github.com/AlexanderBartash/JIRA-Priority-Icons/blob/master/Medium.svg"/>
-<image  height="42" src="https://github.com/AlexanderBartash/JIRA-Priority-Icons/blob/master/Low.svg"/>
-<image  height="42" src="https://github.com/AlexanderBartash/JIRA-Priority-Icons/blob/master/Lowest.svg"/>
+<image  height="42" src="https://raw.githubusercontent.com/CrowdCast/JIRA-Priority-Icons/34539b2923ff586e435c18bd8718b7564b121617/Highest.svg"/>
+<image  height="42" src="https://raw.githubusercontent.com/CrowdCast/JIRA-Priority-Icons/34539b2923ff586e435c18bd8718b7564b121617/High.svg"/>
+<image  height="42" src="https://raw.githubusercontent.com/CrowdCast/JIRA-Priority-Icons/34539b2923ff586e435c18bd8718b7564b121617/Medium.svg"/>
+<image  height="42" src="https://raw.githubusercontent.com/CrowdCast/JIRA-Priority-Icons/34539b2923ff586e435c18bd8718b7564b121617/Low.svg"/>
+<image  height="42" src="https://raw.githubusercontent.com/CrowdCast/JIRA-Priority-Icons/34539b2923ff586e435c18bd8718b7564b121617/LowestOption2.svg"/>
 </span>
 
 # How can I use it? ┬─┬ ノ( ゜-゜ノ)
